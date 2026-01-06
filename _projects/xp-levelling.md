@@ -8,8 +8,8 @@ Data-driven progression system handling XP gain, levelling up, and foundations t
 
 <figure class="mm-video">
   <video autoplay loop muted playsinline preload="metadata">
-    <source src="{{ "/assets/videos/spellcasting/preview.webm" | relative_url }}" type="video/webm">
-    <source src="{{ "/assets/videos/spellcasting/preview.mp4" | relative_url }}" type="video/mp4">
+    <source src="{{ "/assets/videos/xp/xp-preview.webm" | relative_url }}" type="video/webm">
+    <source src="{{ "/assets/videos/xp/xp-preview.mp4" | relative_url }}" type="video/mp4">
   </video>
 </figure>
 
