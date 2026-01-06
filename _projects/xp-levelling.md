@@ -6,17 +6,18 @@ title: "XP & Levelling System"
 
 Data-driven progression system handling XP gain, levelling up, and foundations to scale (using delegates and modular components).
 
-<video
-  autoplay
-  loop
-  muted
-  playsinline
-  preload="metadata"
-  style="width:100%; max-width:960px; border-radius:8px;"
->
-  <source src="/assets/videos/spellcasting/preview.webm" type="video/webm">
-  <source src="/assets/videos/spellcasting/preview.mp4" type="video/mp4">
-</video>
+<figure class="mm-video">
+  <video
+    autoplay
+    loop
+    muted
+    playsinline
+    preload="metadata"
+  >
+    <source src="/assets/videos/xp-system/preview.webm" type="video/webm">
+    <source src="/assets/videos/xp-system/preview.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ### Features
 - Builds on the spell casting system to add progression depth
