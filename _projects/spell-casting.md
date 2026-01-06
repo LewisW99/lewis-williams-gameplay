@@ -8,8 +8,8 @@ Player-facing ability system supporting multiple spell types, cooldowns, and des
 
 <figure class="mm-video">
   <video autoplay loop muted playsinline preload="metadata">
-    <source src="{{ "/assets/videos/spell-casting/preview.webm" | relative_url }}" type="video/webm">
-    <source src="{{ "/assets/videos/spell-casting/preview.mp4" | relative_url }}" type="video/mp4">
+    <source src="{{ "/assets/videos/spellcasting/preview.webm" | relative_url }}" type="video/webm">
+    <source src="{{ "/assets/videos/spellcasting/preview.mp4" | relative_url }}" type="video/mp4">
   </video>
 </figure>
 
