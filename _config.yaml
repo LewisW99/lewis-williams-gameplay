@@ -19,6 +19,8 @@ plugins:
 
 # Appearance
 minimal_mistakes_skin: dark
+custom_css:
+- /assets/css/custom.css
 
 # Navigation
 header_pages:
