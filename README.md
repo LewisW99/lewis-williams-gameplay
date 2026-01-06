@@ -16,7 +16,7 @@ Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engine
 - Editor-exposed parameters for rapid iteration
 
  *Gameplay clip:* (link here)  
- *Source code:* (GitHub repo link)
+ *Source code:* [(GitHub repo link)](https://github.com/LewisW99/ue5-cpp-spellcasting)
 
 ---
 
