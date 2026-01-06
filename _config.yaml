@@ -1,3 +1,35 @@
-theme: jekyll-theme-minimal
+# Site settings
 title: Lewis Williams
-description: Gameplay Engineer | Unreal Engine & Unity
+subtitle: Gameplay Engineer
+name: Lewis Williams
+description: >
+  Gameplay-focused engineer specialising in player-facing systems,
+  gameplay architecture, and real-time interaction using Unreal Engine (C++)
+  and Unity (C#).
+
+url: "https://lewisw99.github.io"
+baseurl: "/lewis-williams-gameplay"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Plugins (required)
+plugins:
+  - jekyll-include-cache
+
+# Appearance
+minimal_mistakes_skin: dark
+
+# Navigation
+header_pages:
+  - index.md
+
+# Markdown
+markdown: kramdown
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
