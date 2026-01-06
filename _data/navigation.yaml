@@ -1,7 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Projects"
-    url: /projects/branching-ui/
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/branching-ui/
+
