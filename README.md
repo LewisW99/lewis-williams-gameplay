@@ -57,4 +57,4 @@ Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engine
  Northampton, UK 
 
  ##
- Videos and Demos can be made for on request.
+ Videos and Demos can be supplied on request.
