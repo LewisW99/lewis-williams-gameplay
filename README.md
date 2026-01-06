@@ -15,20 +15,19 @@ Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engine
 - Modular Actor Components
 - Editor-exposed parameters for rapid iteration
 
- *Gameplay clip:* (link here)  
  *Source code:* [(GitHub repo link)](https://github.com/LewisW99/ue5-cpp-spellcasting)
 
 ---
 
 ###  XP & Levelling System (Unreal Engine – C++)
-**Data-driven progression system** handling XP gain, levels, stat scaling, and skill point allocation.
+**Data-driven progression system** handling XP gain, levelling up and foundations to scale ( using delegates and modular components )
 
-- Persistent save/load
+- Building on from the first project to add more flesh to it
+- Using delegates and broadcasting to avoid overcomplication of data
 - Reusable Actor Components
 - Clean separation of gameplay logic and data
 
- *Gameplay clip:* (link here)  
- *Source code:* (GitHub repo link)
+ *Source code:* [(GitHub repo link)](https://github.com/LewisW99/ue5-xp-levelling)
 
 ---
 
@@ -38,8 +37,7 @@ Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engine
 - Asynchronous asset loading
 - Optimised for Android memory constraints
 - Responsive runtime behaviour
-
- *Demo clip:* (link here)  
+  
  *Source code:* [(GitHub repo link)](https://github.com/LewisPM20/ABCTestV2/tree/Dev)
 
 ---
@@ -56,5 +54,7 @@ Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engine
 
 ## Contact
  lewiswills@hotmail.co.uk  
- 07960988570
- Northampton, UK  
+ Northampton, UK 
+
+ ##
+ Videos and Demos can be made for on request.
