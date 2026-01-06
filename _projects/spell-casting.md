@@ -6,17 +6,18 @@ title: "Modular Spell Casting System"
 
 Player-facing ability system supporting multiple spell types, cooldowns, and designer-configurable behaviour.
 
-<video
-  autoplay
-  loop
-  muted
-  playsinline
-  preload="metadata"
-  style="width:100%; max-width:960px; border-radius:8px;"
->
-  <source src="/assets/videos/spellcasting/preview.webm" type="video/webm">
-  <source src="/assets/videos/spellcasting/preview.mp4" type="video/mp4">
-</video>
+<figure class="mm-video">
+  <video
+    autoplay
+    loop
+    muted
+    playsinline
+    preload="metadata"
+  >
+    <source src="/assets/videos/xp-system/preview.webm" type="video/webm">
+    <source src="/assets/videos/xp-system/preview.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ### Features
 - Event-driven gameplay architecture
