@@ -16,6 +16,7 @@ Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engine
 - [Branching UI Decision System (Unity – C#)]({{ "/projects/branching-ui/" | relative_url }})
 - [Modular Spell Casting System (Unreal Engine – C++)]({{ "/projects/spell-casting/" | relative_url }})
 - [XP & Levelling System (Unreal Engine – C++)]({{ "/projects/xp-levelling/" | relative_url }})
+- [MiniEngine - Custom-built Engine From Scratch (C++, WIP)]({{"/projects/mini-engine/" | relative_url }})
 
 
 
