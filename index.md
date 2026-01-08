@@ -4,10 +4,10 @@ layout: single
 permalink: /
 ---
 
-Gameplay Engineer | Unreal Engine & Unity
+Games Programmer | Unreal Engine & Unity
 
-Gameplay-focused engineer specialising in **player-facing systems**, **gameplay architecture**, and **real-time interaction** using **Unreal Engine (C++)** and **Unity (C#)**.  
-Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engineer** role in the games industry.
+Games Programmer specialising in **player-facing systems**, **gameplay architecture**, and **real-time interaction** using **Unreal Engine (C++)** and **Unity (C#)**.  
+Currently working as an Immersive Pipeline Engineer, seeking a **Gameplay Engineer** or programmming related role in the games industry.
 
 ---
 
