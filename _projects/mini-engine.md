@@ -14,6 +14,19 @@ title: "MiniEngine - Custom C++ Engine (WIP)"
 - Lightweight engine architecture designed to run on low-spec hardware as a less resource-intensive alternative to Unreal Engine
 - Hardware-aware memory benchmarking, selecting optimal allocation strategies per machine on initial launch ( can also be re-benchmarked ) 
 - Modular, extensible codebase designed for iterative development and future engine subsystems
+
+### Latest Updates
+- Integrating Lua as an in-engine scripting language, allowing users to code within the engine ( also added a link to Lua Documentation )
+- Refreshed the UI a little, fully embraced the dockspace design
+- Implemented basic gravity and started implementing physics system
+- Further optimised processes, curent runtime full allocation of memory is around 120MB
+
+
+ ### Roadmap
+ - Provide templates for Lua scripts, and ability to create custom templates
+ - The ability to convert projects into executable games
+ - Basic Lighting systems
+ - Level Systems ( currently one project can only technically be a scene ) 
   
 ### Technical Focus
 - Low-level, performance-oriented C++ with careful memory management and minimal overhead
