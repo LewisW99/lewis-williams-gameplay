@@ -22,11 +22,11 @@ title: "MiniEngine - Custom C++ Engine (WIP)"
 - Further optimised processes, curent runtime full allocation of memory is around 120MB
 
 
- ### Roadmap
- - Provide templates for Lua scripts, and ability to create custom templates
- - The ability to convert projects into executable games
- - Basic Lighting systems
- - Level Systems ( currently one project can only technically be a scene ) 
+### Roadmap
+- Provide templates for Lua scripts, and ability to create custom templates
+- The ability to convert projects into executable games
+- Basic Lighting systems
+- Level Systems ( currently one project can only technically be a scene ) 
   
 ### Technical Focus
 - Low-level, performance-oriented C++ with careful memory management and minimal overhead
