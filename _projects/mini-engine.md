@@ -20,10 +20,11 @@ title: "MiniEngine - Custom C++ Engine (WIP)"
 - Refreshed the UI a little, fully embraced the dockspace design
 - Implemented basic gravity and started implementing physics system
 - Further optimised processes, curent runtime full allocation of memory is around 120MB
+- Started implementing a basic rendering system, and added the framework for material systems similar to Unity / Unreal.
+- Provided Basic templates for Lua scripts, will continue expanding
 
 
 ### Roadmap
-- Provide templates for Lua scripts, and ability to create custom templates
 - The ability to convert projects into executable games
 - Basic Lighting systems
 - Level Systems ( currently one project can only technically be a scene ) 
